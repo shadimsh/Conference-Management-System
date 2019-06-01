@@ -11,6 +11,6 @@ All 3 type users have to sign up to the system. Chairs and reviewers need to be 
 
 
 # Running the project
-If you wanna run the project create a python 3 virtual environment and then you can install the dependencies using pip install reqiurements.txt command inside the main folder. Then run python manage.py runserver command to run the app. You can use it from localhost:8000.
+If you wanna run the project create a python 3 virtual environment and then you can install the dependencies using "pip install reqiurements.txt" command inside the main folder. Then run "python manage.py runserver" command to run the app. You can use it from localhost:8000.
 
 
